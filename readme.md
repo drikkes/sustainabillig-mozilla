@@ -1,8 +1,8 @@
 # cloud-to-butt-mozilla
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
+Forked from DaveRandom (see above).
 
+## Warning
 
-## Installing
-
-[Download it from Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/cloud-to-butt/)
+This won't likely work. I have no idea how to code.
